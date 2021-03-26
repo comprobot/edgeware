@@ -1,4 +1,4 @@
-# edgeware
+# Edgeware Account Management Dapp
 
 Edgeware Account management Dapp included.
 
